@@ -1,12 +1,9 @@
-<div id="header" align="center">
-<img src="./images/profile-pic (1).png" alt="cristian blanco" height="150">
-</div>
-
-<h1 align="center"><strong>Cristian Blanco</strong></h1>
-<h3 align="center">Al haberme graduado de un bootcamp intensivo de +800 horas donde adquirí habilidades prácticas en programación, estoy emocionado de empezar mi carrera en tecnología y contribuir a proyectos desafiantes y emocionantes.
+<h1 align="left"><strong>Cristian Blanco Leandro</strong></h1>
+<h4 align="left">Al haberme graduado de un bootcamp intensivo de +800 horas donde adquirí habilidades prácticas en programación, estoy emocionado de empezar mi carrera en tecnología y contribuir en proyectos desafiantes y emocionantes.
 </br>
 </br>
-A pesar de haber completado el programa, siento que todavía hay mucho que aprender. Me gustaría seguir desarrollando mis habilidades y conocimientos para poder contribuir aún más en mi futuro trabajo en tecnología. Estoy buscando oportunidades para continuar mi educación y adquirir experiencia práctica trabajando en proyectos reales.</h3>
+A pesar de haber completado el programa, siento que todavía hay mucho que aprender. Me gustaría seguir desarrollando mis habilidades y conocimientos para poder contribuir aún más en mi futuro trabajo en tecnología. Estoy buscando oportunidades para continuar mi educación y adquirir experiencia práctica trabajando en proyectos reales.
+</h4>
 
 </br>
 
